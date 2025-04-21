@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    padding: 0;
+    background-color: black;
+}
+.header{
+    height: 100%;
+}
+
+.site-title{
+    text-align: center;
+    color: rgb(183, 183, 183);
+    font-size: 44px;
+    font-family: "Playfair Display", serif;
+    text-decoration: none;
+    font-weight: 400;
+    letter-spacing: 6.5px;
+    line-height: 50.6px;
+    margin-top: 51px;
+    text-decoration-style: solid;
+    margin-bottom: 0;
+}
+.site-description{
+    text-align: center;
+    color:rgb(183, 183, 183);
+    font-size: 14px;
+  font-family: sans-serif;
+    text-decoration: none;
+    font-weight: 400;
+    letter-spacing: 6.5px;
+    line-height: 21px;
+    margin-top: 5px;
+    text-decoration-style:solid ;
+    text-transform: uppercase;
+        
+}
+.horizon{
+    width: 80%;
+    color: rgb(183, 183, 183);
+    margin-top: 50px;
+}
+.navcontainer{
+    text-align: center;
+    margin: 23px;
+}
+
+
+.navbar{
+    padding: 13px;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+.img-1{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.para-1{
+    color: rgb(183, 183, 183);
+    text-align: center;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.6px;
+    line-height: 35.2px;
+    font-family: Roboto, sans-serif;
+    text-size-adjust: 100%;
+    margin-top: 175px;
+}
+.para-2{
+    color: rgb(183, 183, 183);
+    text-align: center;
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.6px;
+    line-height: 35.2px;
+    font-family: Roboto, sans-serif;
+    text-size-adjust: 100%;
+}
+.img-2{
+    margin-left: 310px;
+}
+.fa-instagram{
+    font-size: 36px;
+    color: white;
+
+}
+.facebook{
+    width: 30px;
+    padding-right: 115px;
+}
+.nav-2{
+    text-align: center;
+    padding-top: 285px;
+    padding-left: 105px;
+}
+.para-3{
+    color: rgb(183, 183, 183);
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: 0.6px;
+    line-height: 35.2px;
+    font-family: Roboto, sans-serif;
+    text-size-adjust: 100%;
+    margin-top: 195px;
+}
+.para-span{
+    text-decoration: none;
+    color: white;
+}
